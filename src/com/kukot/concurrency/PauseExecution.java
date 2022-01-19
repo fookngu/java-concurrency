@@ -1,4 +1,4 @@
-package com.kukot;
+package com.kukot.concurrency;
 
 public class PauseExecution {
     public static void main(String[] args) throws InterruptedException {
